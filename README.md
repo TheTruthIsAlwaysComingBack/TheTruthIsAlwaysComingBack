@@ -3,8 +3,13 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- :school: I am [Systems Engineering](https://www.emi.edu.bo/index.php/universidad/licenciatura/ingenieria-de-sistemas) `Student` in [Escuela Militar de Ingeniería](https://www.emi.edu.bo/)
-- :nerd_face: Always believe `"You are what you loved"`
+- :school: I am Systems Engineering Student in Escuela Militar de Ingeniería
+- :nerd_face: Always believe "You are what you loved"
+- :shield: Passionate about Information Security and aspiring Cybersecurity specialist
+- :computer: Currently learning Angular and expanding my web development skills
+- :lock: Enthusiast of ethical hacking and digital forensics
+- :bulb: Constantly exploring new security frameworks and vulnerability assessment tools
+- :books: Dedicated to continuous learning in the ever-evolving tech landscape
 
 
 <br>
