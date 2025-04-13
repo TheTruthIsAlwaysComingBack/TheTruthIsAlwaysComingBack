@@ -3,6 +3,9 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
+- :school: I am [Systems Engineering](https://www.emi.edu.bo/index.php/universidad/licenciatura/ingenieria-de-sistemas) `Student` in [Escuela Militar de Ingeniería](https://www.emi.edu.bo/)
+- :nerd_face: Always believe `"You are what you loved"`
+
 
 <br>
 
